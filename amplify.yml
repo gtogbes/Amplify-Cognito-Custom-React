@@ -1,0 +1,21 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - echo Entered the pre-build phase...
+        - pwd
+        - pwd
+        - npm install
+
+    build:
+      commands:
+        - npm run build
+        - echo "✅ Success!"
+  artifacts:
+    baseDirectory: build
+    files:
+      - "**/*"
+  cache:
+    paths:
+
