@@ -1,7 +1,7 @@
 {
   "name": "contacts-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@aws-amplify/ui-react": "^3.6.1",
     "@testing-library/jest-dom": "^5.16.5",
