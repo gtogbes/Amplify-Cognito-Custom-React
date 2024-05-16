@@ -31,10 +31,10 @@
     "userpoolClientReadAttributes": [
       "email"
     ],
-    "userpoolClientLambdaRole": "mycont74c4b5bf_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "mycont74c4b5bf_u",
     "userpoolClientSetAttributes": false,
-    "sharedId": "74c4b5bf",
-    "resourceName": "mycontactapp74c4b5bf",
+    "sharedId": "74c42b5bf",
+    "resourceName": "APP_name",
     "authSelections": "identityPoolAndUserPool",
     "useDefault": "default",
     "usernameAttributes": [

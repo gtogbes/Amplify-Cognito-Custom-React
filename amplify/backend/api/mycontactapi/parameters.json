@@ -1,5 +1,5 @@
 {
-  "AppSyncApiName": "mycontactapi",
+  "AppSyncApiName": "APP_name",
   "DynamoDBBillingMode": "PAY_PER_REQUEST",
   "DynamoDBEnableServerSideEncryption": false
 }
